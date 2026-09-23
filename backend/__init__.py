@@ -1,1 +1,0 @@
-"""MatteHjelpen backend-pakke."""
